@@ -1,0 +1,9 @@
+{
+  "name": "ca-inter-law-revision",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack CA Intermediate Corporate and Other Laws revision tracker",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "better-sqlite3": "^11.8.1", "express": "^4.21.2" }
+}
